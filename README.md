@@ -57,14 +57,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ```
 
-### Instructions to Create the README File:
-
-1. **Open a Text Editor:**
-   Use any text editor (like VS Code, Sublime Text, or even Notepad) to create a new file.
-
-2. **Copy and Paste:**
-   Copy the provided content into the new file.
-
-3. **Save the File:**
-   Save the file as `README.md`.
 
